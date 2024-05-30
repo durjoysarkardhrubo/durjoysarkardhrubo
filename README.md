@@ -1,5 +1,4 @@
-👋 Hello, I'm Durjoy Sarkar Dhrubo 
-<!-- This is a comment in a README.md file -->
+👋 Hello, I'm Durjoy Sarkar Dhrubo <br>
 Welcome to my GitHub profile! I'm a passionate researcher and problem solver specializing in 2D semiconductor materials and molecular dynamics simulations. With over a year of experience in creating complex structures, I have mastered various software packages and tools essential for advanced research and simulations.
 
 🛠️ Research, Technical Skills, Tools & Software Expertise
