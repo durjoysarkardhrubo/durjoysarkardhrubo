@@ -2,7 +2,8 @@
 Welcome to my GitHub profile! I'm a passionate researcher and problem solver specializing in 2D semiconductor materials and molecular dynamics simulations. With over a year of experience in creating complex structures, I have mastered various software packages and tools essential for advanced research and simulations. <br>
 
 🛠️ Research, Technical Skills, Tools & Software Expertise<br>
-Molecular Dynamics Simulations: LAMMPS, Quantum Espresso<br>
+Molecular Dynamics Simulations: LAMMPS<br>
+DFT: Quantum Espresso<br>
 Structure Visualization and Analysis: VESTA, Ovito, ATOMSK, VMD, Avogadro, Vega ZZ<br>
 Post-Processing Analysis: Python, Phana, C++<br>
 Graphical User Interfaces: BURAI, Advanced Nanolabo, Materials Studio, Virtual NanoLab (VNL)<br>
