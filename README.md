@@ -12,7 +12,7 @@ Computer-Aided Design: SolidWorks, AutoCAD<br>
 Documentation: LaTeX<br>
 
 🏆 Academic Contributions<br>
-Replicated at least 32 high-impact Q1 journals on 2D nanosemiconductor materials<br>
+Replicated at least 32 high-impact Q1 journals on 2D & 1D nanosemiconductor materials<br>
 Currently working on a journal article about 2D nanosemiconductor materials<br>
 Participated and won prestigious prizes in math competitions including NUMO, BDMO, IGO, and APMO<br>
 Engaged in solving unsolved math research problems in number theory for an international math research project<br>
