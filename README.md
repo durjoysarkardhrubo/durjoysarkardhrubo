@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a passionate researcher and problem solver spe
 
 🛠️ Research, Technical Skills, Tools & Software Expertise<br>
 Molecular Dynamics Simulations: GROMACS, LAMMPS <br>
-DFT: Quantum Espresso<br>
+DFT: Quantum Espresso ,VASP  <br> 
 Structure Visualization and Analysis: VESTA, Ovito, ATOMSK, VMD, Avogadro, Vega ZZ<br>
 Post-Processing Analysis: Python, Phana, C++<br>
 Graphical User Interfaces: BURAI, Advanced Nanolabo, Materials Studio, Virtual NanoLab (VNL)<br>
