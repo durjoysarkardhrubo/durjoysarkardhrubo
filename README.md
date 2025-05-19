@@ -22,8 +22,10 @@ Udemy Certified in relevant courses<br>
 
 🔍 Research Interests<br>
 2D Semiconductor Materials<br>
-Molecular Dynamics Simulations<br>
-Electronics<br>
+Underground Hydrogen Storage (UHS) <br>
+Molecular Dynamics(MD)<br>
+Density Function Theory(DFT) <br>
+Deep Learning
 
 💡 Problem Solving<br>
 Since childhood, I've been a passionate problem solver, actively participating in and winning numerous math competitions at both national and international levels. I thrive on tackling complex challenges and finding innovative solutions in the fields of electronics and materials science.<br>
